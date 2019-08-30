@@ -21,7 +21,7 @@ describe('Middleware', () => {
     let res = {};
     let next = () => {return 1;};
     logger(req, res, next);
-    expect(req.message).toEqual(`this is the message for ${req.method}`)
+    expect(req.message).toEqual(`this is the message for ${req.method}`);
 
   });
 
