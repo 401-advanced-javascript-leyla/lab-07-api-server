@@ -1,45 +1,37 @@
-# LAB - 00
+# LAB - 07
 
 ## Deployment Lab
 
-### Author: Leyla Li
+### Author: Jessica Walters, Leyla Li, Sam Gnuschuke
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-leyla/lab-00/pulls)
-* [travis](https://travis-ci.com/401-advanced-javascript-leyla/lab-00)
-* [front-end](https://lab-00-leyla.herokuapp.com/)
+* [submission PR](https://github.com/401-advanced-javascript-jessica/401-lab-07/pulls)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-jessica/401-lab-07)
+* [back-end](https://jessica-401-lab-07.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](https://lab-00-leyla.herokuapp.com/docs/)
+* [jsdoc](https://jessica-401-lab-07.herokuapp.com/docs)
+* [API docs](http://localhost:3333/api-docs)
 
-### Modules
-#### `pol.js`
-##### Exported Values and Methods
-
-###### `isAlive(dead) -> boolean`
-The isAlive() method returns a boolean based on the arg sent in.
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* none
 
 #### Running the app
 * `npm start`
-* Endpoint: `/`
-  * Returns a boolean
+* Endpoint: `/categories`
+  * Returns an object containing all categories
+* Endpoint: `/categories`
+    * post a new category
 * Endpoint: `/docs`
   * Renders Developer Documentation
 
-#### Documentations
-*J
+#### Documentation
+*
   
 #### Tests
-* Unit Tests: `npm run test`
-* Lint Tests: `npm run lint`
-* Assertions Made
-  * Assert that isAlive() properly returns a boolean
-* Assertions Remaining
-  * ... Things I want to tests, but didn't yet.
+`npm run test`
 
 #### UML
 

@@ -29,8 +29,5 @@ describe('web server', () => {
 
   });
 
-  it('should add new data to the database', ()=>{
-    
-  });
 
 });
