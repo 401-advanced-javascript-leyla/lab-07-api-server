@@ -5,12 +5,12 @@
 ### Author: Jessica Walters, Leyla Li, Sam Gnuschuke
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
-* [back-end]()
+* [submission PR](https://github.com/401-advanced-javascript-jessica/401-lab-07/pull/2)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-jessica/401-lab-07)
+* [back-end](https://jessica-401-lab-07.herokuapp.com/)
 
 #### Documentation
-* [jsdoc]()
+* [jsdoc](https://jessica-401-lab-07.herokuapp.com/docs)
 * [API docs](http://localhost:3333/api-docs)
 
 
