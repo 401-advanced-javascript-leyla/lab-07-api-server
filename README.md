@@ -5,7 +5,7 @@
 ### Author: Jessica Walters, Leyla Li, Sam Gnuschuke
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jessica/401-lab-07/pull/2)
+* [submission PR](https://github.com/401-advanced-javascript-jessica/401-lab-07/pulls)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-jessica/401-lab-07)
 * [back-end](https://jessica-401-lab-07.herokuapp.com/)
 
