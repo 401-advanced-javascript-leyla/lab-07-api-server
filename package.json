@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "jest": "^24.8.0",
     "mongodb-memory-server": "^5.2.0",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "superagent": "^5.1.0",
     "supertest": "^4.0.2"
   },
